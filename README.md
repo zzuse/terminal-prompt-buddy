@@ -21,7 +21,7 @@ waiting, and lets you approve or deny right from the device.
 </p>
 
 <p align="center">
-  <img src="docs/device.mp4" alt="M5StickS3 Using without Desktop App, which I have" width="500">
+  <img src="docs/device2.jpg" alt="M5StickS3 Using without Desktop App, which I have" width="500">
 </p>
 
 ## Hardware
