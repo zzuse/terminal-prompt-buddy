@@ -20,6 +20,10 @@ waiting, and lets you approve or deny right from the device.
   <img src="docs/device.jpg" alt="M5StickC Plus running the buddy firmware" width="500">
 </p>
 
+<p align="center">
+  <img src="docs/device.mp4" alt="M5StickS3 Using without Desktop App, which I have" width="500">
+</p>
+
 ## Hardware
 
 The firmware targets ESP32 with the Arduino framework. As written, it
