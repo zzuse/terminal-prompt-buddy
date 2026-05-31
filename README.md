@@ -1,4 +1,4 @@
-# claude-desktop-buddy
+# claude-buddy(Desktop/commandLine)
 
 Claude for macOS and Windows can connect Claude Cowork and Claude Code to
 maker devices over BLE, so developers and makers can build hardware that
@@ -19,6 +19,9 @@ waiting, and lets you approve or deny right from the device.
 <p align="center">
   <img src="docs/device.jpg" alt="M5StickC Plus running the buddy firmware" width="500">
 </p>
+
+Claude Code via PTY Wrapper (Using without Desktop App), I have M5StickS3 Using without Desktop App,
+so `platformio.ini` build is for M5StickS3. See the [REFERENCE.md](REFERENCE.md) for detail.
 
 <p align="center">
   <img src="docs/device2.jpg" alt="M5StickS3 Using without Desktop App, which I have" width="500">
